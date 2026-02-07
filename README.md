@@ -10,7 +10,7 @@
 
 - 🎓 **3rd Year CSE Student** at University of Asia Pacific 
 - 🏆 **ICPC Dhaka Regional 2024 & 2025** Participant 
-- 💻 Solved **50+ problems** across 5+ online judges
+- 💻 Solved **50+ problems** across 5+ online judges.
 - 🚀 Passionate about **Algorithms, Data structures**, **Cyber security** and building **softwares**
 
 ## 📊 GitHub Statistics
